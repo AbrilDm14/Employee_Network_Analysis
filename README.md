@@ -1,4 +1,4 @@
-# Employee Network Analysis 
+# Employee Network Analysis  
 The following analysis aims to aid the HR department to understand interdepartmental dynamics better and to explore how the company shares information. The ultimate goal of this project is to think of ways to improve collaboration throughout the company.  
 
 To do so, this analysis will attempt to answers to the following questions:
